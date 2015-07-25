@@ -12,3 +12,5 @@ time is out
 
 first time commit to remote wtsoli
 add another line for testing pulling
+
+for test push/pull func
